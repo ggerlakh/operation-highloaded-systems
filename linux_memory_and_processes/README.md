@@ -3,7 +3,7 @@
 ## Задание 1. Systemd
 
 * Создал bash скрипт [homework_service.sh](./homework_service.sh) и соответствующий ему [homework_service.service](./homework_service.service). Созданный systemd unit запустил.
-  [p1_1](./img/p1_1.png)
+  ![p1_1](./img/p1_1.png)
 * Проверил status созданного systemd unit через команду  
   ```bash
   sudo systemctl status homework_service.service
