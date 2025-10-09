@@ -1,0 +1,7 @@
+[Unit]
+Description=Simple homework service writing date
+
+[Service]
+Type=exec
+ExecStart=/usr/local/bin/homework_service.sh
+Restart=on-failure
