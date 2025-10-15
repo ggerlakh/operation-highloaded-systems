@@ -66,7 +66,7 @@
   ```bash
   sudo iptables -A INPUT -p tcp --dport 8080 -j DROP
   ```
-  ![p2_7](./img/img2_7.png)
+  ![p2_6](./img/img2_6.png)
 * Продемонстрировал работу firewall через `tcpdump`
   ```bash
   sudo tcpdump -i any -s 0 -A -n -v 'tcp port 8080'
