@@ -4,3 +4,4 @@
 
 ## Список ДЗ
 - [Linux работа с памятью и процессами (ДЗ№2)](./linux_memory_and_processes/)
+- [Linux работа с памятью и процессами (ДЗ№3)](./linux_networks/)
